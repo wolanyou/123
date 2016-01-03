@@ -7,6 +7,9 @@ public class Tiger {
 		System.out.println("123");
 		System.out.println("123");
 		System.out.println("123");
+
 		System.out.println("123hhh");
+		System.out.println("1234");
+
 	}
 }
